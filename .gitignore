@@ -1,0 +1,46 @@
+# JetBrains Rider
+.idea/
+
+# F# and .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+*.dll
+*.exe
+*.pdb
+*.userprefs
+project.lock.json
+artifacts/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Rider-specific files
+*.sln.iml
+*.sln.DotSettings.user
+
+# User-specific Rider files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+
+# Rider
+.idea/codeStyles/
+.idea/shelf/
+
+# .NET
+project.lock.json
+*.sw?
+
+# Visual Studio Code
+.vscode/
+
